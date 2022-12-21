@@ -1,0 +1,14 @@
+C:\dev\StringsCS\bin\Debug\netcoreapp3.1\StringsCS.exe
+C:\dev\StringsCS\bin\Debug\netcoreapp3.1\StringsCS.deps.json
+C:\dev\StringsCS\bin\Debug\netcoreapp3.1\StringsCS.runtimeconfig.json
+C:\dev\StringsCS\bin\Debug\netcoreapp3.1\StringsCS.runtimeconfig.dev.json
+C:\dev\StringsCS\bin\Debug\netcoreapp3.1\StringsCS.dll
+C:\dev\StringsCS\bin\Debug\netcoreapp3.1\StringsCS.pdb
+C:\dev\StringsCS\obj\Debug\netcoreapp3.1\StringsCS.csproj.AssemblyReference.cache
+C:\dev\StringsCS\obj\Debug\netcoreapp3.1\StringsCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StringsCS\obj\Debug\netcoreapp3.1\StringsCS.AssemblyInfoInputs.cache
+C:\dev\StringsCS\obj\Debug\netcoreapp3.1\StringsCS.AssemblyInfo.cs
+C:\dev\StringsCS\obj\Debug\netcoreapp3.1\StringsCS.csproj.CoreCompileInputs.cache
+C:\dev\StringsCS\obj\Debug\netcoreapp3.1\StringsCS.dll
+C:\dev\StringsCS\obj\Debug\netcoreapp3.1\StringsCS.pdb
+C:\dev\StringsCS\obj\Debug\netcoreapp3.1\StringsCS.genruntimeconfig.cache
