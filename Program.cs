@@ -6,11 +6,16 @@ namespace StringsCS
     {
         static void Main(string[] args)
         {
-            var id = Guid.NewGuid();
-            id.ToString().Substring(0, 8);
+            var price = 10.2+19.2;
+            // var text = "O preço do produto é "+price+" apenas na promoção";
+            // var text = string.Format("O preço do produto é {0} apenas na promoção {1}.", price, true);
+            var text = $"O preço do produto é {price} apenas na promoção.";
+            // var text = $@"O preço do produto 
+            // é {price} apenas 
+            // na promoção.";
+            // var text = $"O preço do produto \n é {price} apenas na promoção.";
 
-            id = new Guid("c058af95-25b6-4f4e-93e4-74ef94f6424c");
-            Console.WriteLine(id);
+            Console.WriteLine(text);
         }
     }
 }
